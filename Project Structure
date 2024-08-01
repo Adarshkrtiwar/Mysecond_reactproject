@@ -1,0 +1,25 @@
+FaceTheBook/
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middlewares/
+│   ├── .env
+│   ├── server.js
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── redux/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── styles.css
+│   ├── .env
+│   ├── package.json
+│
+├── README.md
+├── package.json
